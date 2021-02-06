@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  No projecto de hoje fiz um piano usando HTML, CSS e os recursos que a DOM oferece.
+  No projecto de hoje fiz um piano usando HTML5 e os recursos que a DOM oferece.
 </h1>
 
 Esse projeto foi desenvolvido usando uma masterclass da Rocketseat:
